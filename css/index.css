@@ -25,10 +25,15 @@
     
 }
 
+.detail{
+    margin-top: 150px;
+}
+
 .detail h1{
     font-size: 40px;
     color: #212121;
-    margin-bottom: 20px;
+    margin-bottom: 30px;
+    
 }
 .detail a{
     background: black;
@@ -57,7 +62,7 @@ p{
 
 .social{
     margin-left: 8%;
-    margin-top: 100px;
+    margin-top: 250px;
 }
 
 .social a{

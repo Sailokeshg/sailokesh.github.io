@@ -55,6 +55,7 @@
 .contact .content h1{
     font-size: 40px;
     font-weight: 500;
+    justify-content: center;
     
 }
 
@@ -153,4 +154,26 @@
     cursor: pointer;
     font-size: 18px;
 
+}
+
+
+@media screen and (max-width:770px) {
+    .contactForm{
+        display: block;
+        float: right;
+        padding-top: 450px;
+        padding-right: 530px;;
+    }
+
+    .container{
+        display: block;
+        max-width: 100%;
+        position: relative;
+        float: inline-start;
+    }
+
+    .content{
+        justify-content: center;
+        padding-left: 180px;
+    }
 }
