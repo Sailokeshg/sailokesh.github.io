@@ -14,8 +14,10 @@
     padding:0;
 }
 
-.main .navbar{
-    background: rgb(182, 185, 156);
+
+
+.body{
+    background: #eff4fd;
 }
 
 .navbar-brand img{
